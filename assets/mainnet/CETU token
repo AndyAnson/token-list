@@ -1,0 +1,11 @@
+{
+"chainId": 101,
+"address": "E78Qz6nAGyMYmm4b8EhuSkYaMN34mKpaChsj6M2kAdnf",
+"symbol": "CETU",
+"name": "CETU Coin",
+"decimals": 5,
+"logoURI": "https://github.com/env1k/kodaidragonz/blob/main/E6F7A9B0-29CF..",
+"tags": [
+"community-token",
+]
+},
